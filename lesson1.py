@@ -2,7 +2,7 @@
 #variables are used to store data values
 x = 16   # integer
 y = 3.14    # float
-name = "Osmar"  #string
+name = "brandon"  #string
 # a letter is a list of characters in
 # quotation marks 
 is_student = True # boolean True or false
@@ -29,4 +29,5 @@ d = False
 # using concatenation
 print(" My friends name is " + str(c) + " He ate " + str(b) + " breads. ")
 # using the f string method
+
 print(f" My name is {c}, I have {a} apples. ")
